@@ -1,2 +1,4 @@
 # NLP_2022
-Repository to Natural Language Processing
+Natural Language Processing project for AGH UST classes.
+- Marcin Retajczyk
+- Igor Ratajczyk
